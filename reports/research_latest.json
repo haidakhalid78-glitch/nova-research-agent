@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-09-19T13:42:52.191349",
+  "status": "active",
+  "category": "Free AI Video Tools",
+  "findings": [
+    {
+      "tool_name": "CapCut Web / Desktop",
+      "tier": "Free / Freemium",
+      "commercial_use": "Restricted on specific free audio assets",
+      "best_for": "Auto-captions, TikTok/Shorts editing, AI effects"
+    },
+    {
+      "tool_name": "Clipchamp",
+      "tier": "Free (1080p export)",
+      "commercial_use": "Allowed with standard assets",
+      "best_for": "Text-to-speech, basic video assembly"
+    },
+    {
+      "tool_name": "Runway Gen-2",
+      "tier": "Free credits on sign-up",
+      "commercial_use": "Check active license terms per generation",
+      "best_for": "Text-to-video, Image-to-video generation"
+    }
+  ]
+}
