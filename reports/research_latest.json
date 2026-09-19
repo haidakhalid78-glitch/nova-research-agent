@@ -1,25 +1,55 @@
 {
-  "timestamp": "2026-09-19T13:42:52.191349",
-  "status": "active",
-  "category": "Free AI Video Tools",
+  "timestamp": "2026-09-19T13:47:36.970990",
+  "status": "live_scraped",
+  "total_items_found": 8,
   "findings": [
     {
-      "tool_name": "CapCut Web / Desktop",
-      "tier": "Free / Freemium",
-      "commercial_use": "Restricted on specific free audio assets",
-      "best_for": "Auto-captions, TikTok/Shorts editing, AI effects"
+      "source": "HackerNews",
+      "title": "Adobe starts roll-out of AI video tools, challenging OpenAI and Meta",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/",
+      "points": 81
     },
     {
-      "tool_name": "Clipchamp",
-      "tier": "Free (1080p export)",
-      "commercial_use": "Allowed with standard assets",
-      "best_for": "Text-to-speech, basic video assembly"
+      "source": "HackerNews",
+      "title": "Google's new AI video tool floods internet with real-looking clips",
+      "url": "https://www.axios.com/2025/05/23/google-ai-videos-veo-3",
+      "points": 17
     },
     {
-      "tool_name": "Runway Gen-2",
-      "tier": "Free credits on sign-up",
-      "commercial_use": "Check active license terms per generation",
-      "best_for": "Text-to-video, Image-to-video generation"
+      "source": "HackerNews",
+      "title": "Google unveils never-before-seen text-to-video AI tool in this week's 60 Minutes",
+      "url": "https://www.cbsnews.com/video/google-unveils-never-before-seen-text-to-video-ai-tool-in-this-weeks-60-minutes/",
+      "points": 11
+    },
+    {
+      "source": "HackerNews",
+      "title": "An AI video tool just launched, and it's already copying Disney's IP",
+      "url": "https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar",
+      "points": 5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Google unveils never-before-seen text-to-video AI tool in this week's 60 Minutes",
+      "url": "https://www.cbsnews.com/video/google-unveils-never-before-seen-text-to-video-ai-tool-in-this-weeks-60-minutes/#x",
+      "points": 5
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "url": "https://github.com/docling-project/docling"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM"
     }
   ]
 }
