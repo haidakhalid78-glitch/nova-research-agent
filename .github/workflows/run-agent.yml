@@ -2,8 +2,8 @@ name: NOVA Research Agent Execution
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Exécution quotidienne à 8h00
-  workflow_dispatch:      # Permet de lancer manuellement
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 jobs:
   research-agent:
@@ -20,7 +20,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 google-generativeai
+          pip install requests beautifulsoup4 google-generativeai edge-tts asyncio
 
       - name: Run NOVA Research Agent
         env:
@@ -33,5 +33,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "auto: update video research reports" || exit 0
+          git commit -m "auto: update video research reports, scripts and voiceover" || exit 0
           git push
