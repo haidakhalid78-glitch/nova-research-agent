@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T08:04:16.538378",
+  "timestamp": "2026-09-22T08:04:14.689972",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "url": "https://github.com/paperless-ngx/paperless-ngx"
+      "title": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "url": "https://github.com/mvt-project/mvt"
     },
     {
       "source": "GitHub Trending",
-      "title": "mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments"
+      "title": "zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "url": "https://github.com/zhouxiaoka/autoclip"
     }
   ]
 }
