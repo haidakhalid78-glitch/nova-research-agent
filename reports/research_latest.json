@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T08:04:07.242326",
+  "timestamp": "2026-09-24T08:04:11.497557",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -32,9 +32,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "url": "https://github.com/mvt-project/mvt"
+      "title": "strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "url": "https://github.com/strands-agents/harness-sdk"
     }
   ]
 }
