@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T08:04:11.497557",
+  "timestamp": "2026-09-25T08:04:23.581134",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "anthropics/financial-services",
-      "description": "No description",
-      "url": "https://github.com/anthropics/financial-services"
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "source": "GitHub Trending",
-      "title": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "url": "https://github.com/davila7/claude-code-templates"
+      "title": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "url": "https://github.com/vectorize-io/hindsight"
     },
     {
       "source": "GitHub Trending",
-      "title": "strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "url": "https://github.com/strands-agents/harness-sdk"
+      "title": "NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "url": "https://github.com/NVIDIA/Model-Optimizer"
     }
   ]
 }
