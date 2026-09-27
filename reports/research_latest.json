@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T08:04:48.276919",
+  "timestamp": "2026-09-27T08:03:54.783594",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "url": "https://github.com/anthropics/claude-plugins-official"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
       "source": "GitHub Trending",
-      "title": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills"
+      "title": "NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "url": "https://github.com/NVIDIA/Model-Optimizer"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     }
   ]
 }
