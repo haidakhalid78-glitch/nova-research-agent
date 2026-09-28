@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T08:03:54.783594",
+  "timestamp": "2026-09-28T08:06:24.455413",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,9 +26,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "url": "https://github.com/NVIDIA/Model-Optimizer"
+      "title": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
       "source": "GitHub Trending",
