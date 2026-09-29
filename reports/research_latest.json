@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T08:06:24.455413",
+  "timestamp": "2026-09-29T08:06:51.648555",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "url": "https://github.com/vectorize-io/hindsight"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
       "source": "GitHub Trending",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "title": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "url": "https://github.com/0x4m4/hexstrike-ai"
     }
   ]
 }
