@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T08:06:50.512424",
+  "timestamp": "2026-10-01T08:06:41.127759",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "url": "https://github.com/vectorize-io/hindsight"
+      "title": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "source": "GitHub Trending",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "title": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     }
   ]
 }
