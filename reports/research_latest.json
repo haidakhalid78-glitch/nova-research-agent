@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T08:06:59.178292",
+  "timestamp": "2026-10-06T08:06:51.004127",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -32,9 +32,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "getsentry/sentry",
-      "description": "Developer-first error tracking and performance monitoring",
-      "url": "https://github.com/getsentry/sentry"
+      "title": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "url": "https://github.com/calesthio/OpenMontage"
     }
   ]
 }
