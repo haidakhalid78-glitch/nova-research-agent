@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T08:07:02.282569",
+  "timestamp": "2026-10-08T15:03:59.834167",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,6 +20,12 @@
     },
     {
       "source": "GitHub Trending",
+      "title": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "source": "GitHub Trending",
       "title": "earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "url": "https://github.com/earthtojake/text-to-cad"
@@ -29,12 +35,6 @@
       "title": "ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "url": "https://github.com/ayghri/i-have-adhd"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "url": "https://github.com/p-e-w/heretic"
     }
   ]
 }
