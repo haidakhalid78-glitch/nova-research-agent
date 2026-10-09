@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T15:03:59.834167",
+  "timestamp": "2026-10-09T14:47:40.498544",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "url": "https://github.com/earthtojake/text-to-cad"
+      "title": "BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "url": "https://github.com/BerriAI/litellm"
     },
     {
       "source": "GitHub Trending",
-      "title": "ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "url": "https://github.com/ayghri/i-have-adhd"
+      "title": "Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "url": "https://github.com/Robbyant/lingbot-map"
     }
   ]
 }
