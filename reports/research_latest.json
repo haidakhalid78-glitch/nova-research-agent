@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T12:57:37.177563",
+  "timestamp": "2026-10-16T12:51:23.278167",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -32,9 +32,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "url": "https://github.com/debpalash/VoiceStudio"
+      "title": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything"
     }
   ]
 }
