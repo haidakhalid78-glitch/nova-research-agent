@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T15:08:02.702350",
+  "timestamp": "2026-10-20T13:08:57.970020",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -32,9 +32,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "url": "https://github.com/headroomlabs-ai/headroom"
+      "title": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "url": "https://github.com/Graphify-Labs/graphify"
     }
   ]
 }
