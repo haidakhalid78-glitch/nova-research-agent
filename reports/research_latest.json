@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T13:18:51.829431",
+  "timestamp": "2026-10-23T12:57:38.566204",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "url": "https://github.com/Graphify-Labs/graphify"
+      "title": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/SnailSploit/Claude-Red"
     },
     {
       "source": "GitHub Trending",
-      "title": "fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "url": "https://github.com/fastapi/fastapi"
+      "title": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "url": "https://github.com/OpenBMB/VoxCPM"
     }
   ]
 }
