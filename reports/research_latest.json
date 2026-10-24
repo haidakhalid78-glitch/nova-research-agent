@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T12:57:38.566204",
+  "timestamp": "2026-10-24T12:21:06.349995",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "url": "https://github.com/anthropics/knowledge-work-plugins"
+      "title": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "url": "https://github.com/aws/agent-toolkit-for-aws"
     },
     {
       "source": "GitHub Trending",
-      "title": "SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/SnailSploit/Claude-Red"
+      "title": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "url": "https://github.com/luongnv89/claude-howto"
     },
     {
       "source": "GitHub Trending",
-      "title": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "url": "https://github.com/OpenBMB/VoxCPM"
+      "title": "jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
     }
   ]
 }
