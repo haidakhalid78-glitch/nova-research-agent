@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T12:51:30.446325",
+  "timestamp": "2026-10-26T14:41:08.002304",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "url": "https://github.com/debpalash/VoiceStudio"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "source": "GitHub Trending",
-      "title": "AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "url": "https://github.com/AgriciDaniel/claude-seo"
+      "title": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach"
     }
   ]
 }
