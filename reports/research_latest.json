@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T14:41:08.002304",
+  "timestamp": "2026-10-27T13:45:55.816345",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "url": "https://github.com/TauricResearch/TradingAgents"
+      "title": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
       "source": "GitHub Trending",
-      "title": "NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "url": "https://github.com/NVIDIA/SkillSpector"
+      "title": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "url": "https://github.com/superdesigndev/treg"
     },
     {
       "source": "GitHub Trending",
-      "title": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach"
+      "title": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "url": "https://github.com/AgriciDaniel/claude-seo"
     }
   ]
 }
