@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T13:45:55.816345",
+  "timestamp": "2026-10-28T14:41:28.447792",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "url": "https://github.com/superdesigndev/treg"
+      "title": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
       "source": "GitHub Trending",
-      "title": "AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "url": "https://github.com/AgriciDaniel/claude-seo"
+      "title": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "url": "https://github.com/p-e-w/heretic"
     }
   ]
 }
