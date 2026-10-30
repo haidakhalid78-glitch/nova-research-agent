@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T14:46:56.643676",
+  "timestamp": "2026-10-30T14:41:51.922021",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "url": "https://github.com/github/spec-kit"
+      "title": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills"
     },
     {
       "source": "GitHub Trending",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "title": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "url": "https://github.com/MemPalace/mempalace"
     }
   ]
 }
