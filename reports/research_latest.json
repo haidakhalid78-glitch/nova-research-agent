@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T14:02:07.061294",
+  "timestamp": "2026-11-01T14:37:10.512622",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "url": "https://github.com/HKUDS/DeepTutor"
+      "title": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "source": "GitHub Trending",
-      "title": "bregman-arie/devops-exercises",
-      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "url": "https://github.com/bregman-arie/devops-exercises"
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis"
     },
     {
       "source": "GitHub Trending",
-      "title": "0x0funky/agent-sprite-forge",
-      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "url": "https://github.com/0x0funky/agent-sprite-forge"
+      "title": "kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "url": "https://github.com/kornia/kornia"
     }
   ]
 }
