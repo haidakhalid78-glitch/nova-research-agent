@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T14:37:10.512622",
+  "timestamp": "2026-11-02T17:34:56.765406",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
+      "title": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "url": "https://github.com/FlashML-org/FreeToken"
+    },
+    {
+      "source": "GitHub Trending",
       "title": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "url": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "kornia/kornia",
-      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "url": "https://github.com/kornia/kornia"
     }
   ]
 }
