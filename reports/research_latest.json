@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T17:34:56.765406",
+  "timestamp": "2026-11-03T15:37:51.396209",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
+      "title": "p-e-w/heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+    },
+    {
+      "source": "GitHub Trending",
       "title": "D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "url": "https://github.com/D4Vinci/Scrapling"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "FlashML-org/FreeToken",
-      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "url": "https://github.com/FlashML-org/FreeToken"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "url": "https://github.com/shiyu-coder/Kronos"
     }
   ]
 }
