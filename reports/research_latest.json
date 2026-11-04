@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T15:37:51.396209",
+  "timestamp": "2026-11-04T15:51:39.999903",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "p-e-w/heretic",
-      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "url": "https://github.com/p-e-w/heretic"
+      "title": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "url": "https://github.com/NVIDIA/auto-ontology"
     },
     {
       "source": "GitHub Trending",
-      "title": "Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+      "title": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "url": "https://github.com/github/spec-kit"
     },
     {
       "source": "GitHub Trending",
-      "title": "D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "url": "https://github.com/D4Vinci/Scrapling"
+      "title": "The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "url": "https://github.com/The-PR-Agent/pr-agent"
     }
   ]
 }
