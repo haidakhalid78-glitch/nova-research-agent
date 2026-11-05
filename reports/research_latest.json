@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T15:51:39.999903",
+  "timestamp": "2026-11-05T15:56:00.650359",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "url": "https://github.com/github/spec-kit"
+      "title": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
     },
     {
       "source": "GitHub Trending",
-      "title": "The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "url": "https://github.com/The-PR-Agent/pr-agent"
+      "title": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "url": "https://github.com/D4Vinci/Scrapling"
     }
   ]
 }
