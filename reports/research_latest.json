@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T17:58:53.109943",
+  "timestamp": "2026-11-10T15:56:40.525570",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "url": "https://github.com/sherlock-project/sherlock"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
     }
   ]
 }
