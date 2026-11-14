@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T15:47:13.978771",
+  "timestamp": "2026-11-14T14:38:32.899740",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,21 +20,21 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "url": "https://github.com/tradermonty/claude-trading-skills"
     },
     {
       "source": "GitHub Trending",
-      "title": "Tencent-Hunyuan/Hy-MT2",
+      "title": "andrewyng/openworker",
       "description": "No description",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2"
+      "url": "https://github.com/andrewyng/openworker"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
     }
   ]
 }
