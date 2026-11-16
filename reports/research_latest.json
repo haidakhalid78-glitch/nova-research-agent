@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T15:06:28.413063",
+  "timestamp": "2026-11-16T17:40:10.849911",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,15 +20,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "source": "GitHub Trending",
