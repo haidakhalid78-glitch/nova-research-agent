@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-16T17:40:10.849911",
+  "timestamp": "2026-11-17T17:13:04.932907",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -20,9 +20,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "url": "https://github.com/tradermonty/claude-trading-skills"
+      "title": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
       "source": "GitHub Trending",
@@ -32,9 +32,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "url": "https://github.com/NVIDIA/SkillEvaluator"
+      "title": "jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "url": "https://github.com/jingyaogong/minimind"
     }
   ]
 }
