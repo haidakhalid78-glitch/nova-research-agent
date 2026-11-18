@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T17:13:04.932907",
+  "timestamp": "2026-11-18T16:49:31.453983",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -26,15 +26,15 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "url": "https://github.com/mvanhorn/last30days-skill"
+      "title": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
       "source": "GitHub Trending",
-      "title": "jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "url": "https://github.com/jingyaogong/minimind"
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill"
     }
   ]
 }
