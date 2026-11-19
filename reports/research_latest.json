@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T16:49:31.453983",
+  "timestamp": "2026-11-19T16:56:33.080611",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -32,9 +32,9 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "url": "https://github.com/mvanhorn/last30days-skill"
+      "title": "jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "url": "https://github.com/jingyaogong/minimind"
     }
   ]
 }
