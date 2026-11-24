@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-23T19:39:27.078598",
+  "timestamp": "2026-11-24T19:13:01.445263",
   "status": "completed",
   "stack_budget": "0 DH",
   "findings": [
@@ -21,7 +21,7 @@
     {
       "source": "GitHub Trending",
       "title": "elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
